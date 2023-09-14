@@ -5,7 +5,7 @@ const Scheds = () => {
   return (
     <div className='w-full'>
         <p className='font-medium'>Class Schedule</p>
-<div className='flex justify-evenly gap-x-4 flex-wrap shadow-md rounded-md w-full px-2'>
+<div className='flex justify-evenly gap-x-4 flex-wrap shadow-md rounded-md w-full px-2 font-medium'>
 <div className='h-10 items-center flex hover:text-blue-800 hover:underline'>
 <button>
 Monday
