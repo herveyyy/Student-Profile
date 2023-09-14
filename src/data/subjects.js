@@ -2,12 +2,9 @@
 const subjects = [
     {
       id: 1,
-      firstName: "Vince Harley",
-      middleName: "Cabig",
-      lastName: "Mapano",
-      age: 13,
-      grade: "Grade 8",
-      section: "Fair",
+      name: "Math",
+      schedule: "6:00 am - 7:00am",
+      teacherName:"",
     },
     
   ];
