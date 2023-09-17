@@ -1,6 +1,6 @@
 import React from 'react'
 
-import students from '../data/Students.js'
+import students from "../data/students.js";
 import Scheds from '../Components/Scheds.jsx';
 const StudentProfilePage = () => {
     const selectedStudent = students.find((student) => student.id === 1);
