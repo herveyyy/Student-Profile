@@ -1,5 +1,5 @@
 import React from 'react'
-import SubjectCard from './SubjectCard'
+import SubjectCard from './SubjectCard.jsx'
 
 const Scheds = () => {
   return (

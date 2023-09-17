@@ -1,5 +1,5 @@
 import React from "react"
-import StudentProfilePage from "./Page/StudentProfilePage"
+import StudentProfilePage from "./Page/StudentProfilePage.jsx"
 export default function App() {
   return (
     <div className="min-h-screen w-full"> 
